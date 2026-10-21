@@ -1,0 +1,55 @@
+{
+  "courseId": "cisco-intro-preview",
+  "voice": "en-US-BrianMultilingualNeural",
+  "rate": "+6%",
+  "clips": [
+    {
+      "topicId": "design",
+      "bytes": 158256
+    },
+    {
+      "topicId": "cloud",
+      "bytes": 175536
+    },
+    {
+      "topicId": "numbers",
+      "bytes": 168624
+    },
+    {
+      "topicId": "ethernet",
+      "bytes": 231840
+    },
+    {
+      "topicId": "routing",
+      "bytes": 158832
+    },
+    {
+      "topicId": "ipv4",
+      "bytes": 292896
+    },
+    {
+      "topicId": "arp",
+      "bytes": 206928
+    },
+    {
+      "topicId": "services",
+      "bytes": 190080
+    },
+    {
+      "topicId": "transport",
+      "bytes": 225936
+    },
+    {
+      "topicId": "ios",
+      "bytes": 162144
+    },
+    {
+      "topicId": "smallnetwork",
+      "bytes": 198000
+    },
+    {
+      "topicId": "icmp",
+      "bytes": 172800
+    }
+  ]
+}
